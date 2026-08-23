@@ -1,9 +1,10 @@
-# BitTorrent v1 Client
+# Seastream
 
-A from-scratch Go implementation of the core BitTorrent v1 download path. It
-is intended as a protocol-learning and systems project: metainfo parsing,
-tracker discovery, peer-wire communication, pipelined block requests, and
-piece-integrity verification are explicit rather than hidden behind a library.
+Seastream is a from-scratch Go implementation of the core BitTorrent v1
+download path. It is a protocol-learning and systems project: metainfo
+parsing, tracker discovery, peer-wire communication, pipelined block requests,
+and piece-integrity verification are explicit rather than hidden behind a
+library.
 
 ## Run
 
