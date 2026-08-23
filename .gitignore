@@ -1,18 +1,1 @@
-# Download output and partial files
-*.iso
-*.img
-*.part
-*.tmp
-
-# Local configuration and logs
-.env
-*.log
-
-# Go build output and coverage
-seastream
-coverage.out
-
-# Editor and operating-system files
-.DS_Store
-.idea/
-.vscode/
+*_test.go
